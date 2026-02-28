@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "deckId": "s2",
+    "title": "Stephen Rando",
+    "theme": "blue"
+  },
+  "slides": [
+    {
+      "type": "title",
+      "headline": "Stephen Rando",
+      "subheadline": "Digital Channels & Platforms",
+      "bullets": [
+        "Frontline-first enterprise execution"
+      ]
+    },
+    {
+      "type": "section",
+      "headline": "Role Fit",
+      "subheadline": "Why this role resonates"
+    },
+    {
+      "type": "content",
+      "headline": "Ownership that delivers outcomes",
+      "bullets": [
+        "End-to-end ownership of complex channel outcomes.",
+        "Clear prioritisation across competing investments.",
+        "Confident executive decision support.",
+        "Delivery at scale with risk and control.",
+        "Trajectory toward COO-level enterprise leadership."
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "Frontline understanding at enterprise scale",
+      "bullets": [
+        "17+ years supporting bankers and brokers.",
+        "Deep knowledge of Retail, Commercial, Wealth workflows.",
+        "Identify friction and enable productivity.",
+        "Translate strategy into iterative, tangible value.",
+        "Balance performance with operational realities."
+      ],
+      "note": "Frontline needs translated into scalable, practical delivery."
+    },
+    {
+      "type": "section",
+      "headline": "Core Strengths",
+      "subheadline": "What I bring"
+    },
+    {
+      "type": "content",
+      "headline": "Enterprise-scale channel execution",
+      "bullets": [
+        "Led multi-year programs across banker workflows.",
+        "Accountable for scope, sequencing, financials, compliance.",
+        "Operated across 50+ enterprise domains.",
+        "Structured delivery: OKRs, forums, milestones.",
+        "Transparent risk and dependency management."
+      ],
+      "note": "Momentum and predictability through disciplined cadence."
+    },
+    {
+      "type": "content",
+      "headline": "Deep frontline understanding",
+      "bullets": [
+        "Grounded in real banker day-to-day.",
+        "Solutions integrated into daily workflows.",
+        "Focus on productivity and outcomes.",
+        "Pragmatic, scalable channel design.",
+        "Not transformation theatre; practical delivery."
+      ],
+      "note": "Design for adoption, not just deployment."
+    },
+    {
+      "type": "content",
+      "headline": "Executive governance and decision support",
+      "bullets": [
+        "Experience in regulatory programs and divestments.",
+        "Balance speed with risk and control.",
+        "Data-driven insights and clear trade-offs.",
+        "Rapid, confident executive decisions enabled.",
+        "Align stakeholders across complex ecosystems."
+      ],
+      "note": "Clarity, evidence, and timely decision-making."
+    },
+    {
+      "type": "beforeAfter",
+      "headline": "From ambiguity to execution clarity",
+      "left": {
+        "title": "Before",
+        "bullets": [
+          "Competing priorities and unclear decision rights.",
+          "Fragmented sequencing and duplication.",
+          "Slow risk visibility, late escalation."
+        ]
+      },
+      "right": {
+        "title": "After",
+        "bullets": [
+          "Clear outcomes and funded roadmap.",
+          "Aligned cadence, dependencies, governance.",
+          "Predictable delivery with transparent risk."
+        ]
+      }
+    },
+    {
+      "type": "section",
+      "headline": "Delivery Execution",
+      "subheadline": "First 90 days"
+    },
+    {
+      "type": "content",
+      "headline": "Accelerate impact quickly",
+      "bullets": [
+        "Rapid immersion with bankers and brokers.",
+        "Define outcomes, metrics, decision rights.",
+        "Align Tech, Product, Finance, Risk."
+      ],
+      "note": "Establish cadence, trust, and transparency."
+    },
+    {
+      "type": "content",
+      "headline": "Embed performance transparency",
+      "bullets": [
+        "Delivery predictability and milestone health.",
+        "Benefits realisation tracked to plan.",
+        "Frontline adoption and usage telemetry.",
+        "Risk profile and controls status.",
+        "Dashboards tied to financial metrics."
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "Strengthen ways of working",
+      "bullets": [
+        "Uplift agile maturity where needed.",
+        "Clarify accountability across squads.",
+        "Reduce duplication across programs.",
+        "Improve release sequencing coordination.",
+        "Tighten change readiness planning."
+      ]
+    },
+    {
+      "type": "content",
+      "headline": "12–24 month channel blueprint",
+      "bullets": [
+        "Multi-year roadmap and migration plan.",
+        "Banker productivity and digital adoption targets.",
+        "Regulatory resilience factored throughout.",
+        "Sequenced releases with dependency clarity.",
+        "Executive endorsement and aligned funding."
+      ]
+    },
+    {
+      "type": "closing",
+      "headline": "Enable bankers to serve better",
+      "subheadline": "Modern, disciplined digital channels — delivered."
+    }
+  ]
+}
